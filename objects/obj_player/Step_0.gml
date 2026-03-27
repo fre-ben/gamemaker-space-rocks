@@ -42,5 +42,5 @@ if (keyboard_check(vk_alt) && bullet_cooldown <= 0)
 	}
 	
     
-    bullet_cooldown = (powerup != 4) ? 10 : 5; 
+    bullet_cooldown = (powerup == 4) ? 5 : 10; 
 }

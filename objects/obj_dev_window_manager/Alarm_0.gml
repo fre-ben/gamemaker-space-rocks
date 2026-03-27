@@ -1,0 +1,1 @@
+// window_set_position(-1700, 0);
