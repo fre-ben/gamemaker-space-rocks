@@ -8,8 +8,8 @@
   "name":"obj_endscreen",
   "overriddenProperties":[],
   "parent":{
-    "name":"ui",
-    "path":"folders/Objects/ui.yy",
+    "name":"endscreen",
+    "path":"folders/Objects/ui/endscreen.yy",
   },
   "parentObjectId":null,
   "persistent":false,

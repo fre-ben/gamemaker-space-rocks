@@ -55,6 +55,7 @@
     {"id":{"name":"obj_endscreen","path":"objects/obj_endscreen/obj_endscreen.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_init","path":"objects/obj_init/obj_init.yy",},},
+    {"id":{"name":"obj_leaderboard","path":"objects/obj_leaderboard/obj_leaderboard.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_powerup_bomb","path":"objects/obj_powerup_bomb/obj_powerup_bomb.yy",},},
     {"id":{"name":"obj_powerup_ghost","path":"objects/obj_powerup_ghost/obj_powerup_ghost.yy",},},
