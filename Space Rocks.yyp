@@ -40,6 +40,7 @@
   "name":"Space Rocks",
   "resources":[
     {"id":{"name":"fnt_endscreen","path":"fonts/fnt_endscreen/fnt_endscreen.yy",},},
+    {"id":{"name":"fnt_leaderboard","path":"fonts/fnt_leaderboard/fnt_leaderboard.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"fnt_powerup_timer","path":"fonts/fnt_powerup_timer/fnt_powerup_timer.yy",},},
     {"id":{"name":"LINK_TO_TUTORIALS","path":"notes/LINK_TO_TUTORIALS/LINK_TO_TUTORIALS.yy",},},

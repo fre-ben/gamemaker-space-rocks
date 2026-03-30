@@ -6,7 +6,7 @@ if (_id == async_prompt) {
         var _player_name = async_load[? "result"];
         
         // 1. Add the new score and name to the array
-        array_push(global.leaderboard, {name: _player_name, score: global.temp_score});
+        array_push(global.leaderboard, {name: _shortened_player_name, score: global.temp_score});
         
         // 2. Sort the array from highest score to lowest
         array_sort(global.leaderboard, function(_a, _b) {
